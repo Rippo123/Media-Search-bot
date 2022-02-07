@@ -1,4 +1,4 @@
-https://github.com/subinps/pyrogram/archive/inline-m.zip
+എന്താ നോക്കുന്നെ....
 tgcrypto==1.2.2
 pymongo[srv]==3.11.4
 motor==2.4.0
